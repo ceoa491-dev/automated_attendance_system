@@ -195,6 +195,6 @@ Teachers can generate attendance reports by selecting a class and a specific dat
 
 **Dinesh**
 
-Computer Science Student | Python Developer | Software Development Enthusiast
+BCA Student | Python Developer | Software Development Enthusiast
 
 GitHub: https://github.com/ceoa491-dev
